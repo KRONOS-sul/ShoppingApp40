@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShoppingApp40</string>
+    <string name="negr">negr</string>
+    <string name="name_a_vegetable">Name a vegetable</string>
+    <string name="set_number">Set number</string>
+    <string name="add">add</string>
+</resources>
